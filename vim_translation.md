@@ -1,0 +1,1 @@
+Linux: ~/.config/nvim as root of a directory

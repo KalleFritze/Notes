@@ -1,0 +1,8 @@
+the current working directory is the directory vim was opened in
+
+change the cwd: type :cd path/to/directory
+the file search will then show files from that directory
+
+show current working directoy: :pwd (print working directory)
+
+change only the working directory of the currently active window: :lcd path/to/directory (local change directoy)

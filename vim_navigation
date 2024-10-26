@@ -1,0 +1,18 @@
+## Scrolling the page:
+
+ctrl+u/ctrl+d for scrolling half a page of text
+-ctrl+f/ctrl+b for scrolling by a full page of text
+
+gg to jump to top of the file
+G to jump to bottom of the file
+
+jumping to line:
+: 100 G to jump to  line 100
+
+go back to place you jumped from: ctrl+o
+undo cltr+o: ctlr+ i
+
+
+buffers:
+close buffer: type :bd to close current buffer
+

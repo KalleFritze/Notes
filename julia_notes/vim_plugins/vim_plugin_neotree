@@ -1,0 +1,18 @@
+:help neo-tree
+
+
+
+space+e to open neo-tree
+
+backspace to navigate to higher tree level
+
+deleting a file: cursor over file, d
+adding a file: a, name_of_file
+adding a directory: a, name_of_directory/
+
+
+renaming a file: corsor over file, r
+
+cut a file: x
+copy a file: y
+paste the file: p

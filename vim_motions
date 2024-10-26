@@ -1,0 +1,7 @@
+Motions:
+
+^ beginning of a line
+$ end of a line
+
+w beginning of next word
+e end of current word
